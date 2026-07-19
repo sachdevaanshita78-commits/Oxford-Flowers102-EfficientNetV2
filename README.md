@@ -1,10 +1,5 @@
 # 🌸 Flower Classification using EfficientNetV2-S (Transfer Learning)
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)
-![Torchvision](https://img.shields.io/badge/Torchvision-Latest-orange)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 
 A deep learning project that classifies **102 flower species** from the **Oxford Flowers102** dataset using **Transfer Learning** with **EfficientNetV2-S**. The project compares **Feature Extraction** and **Fine-Tuning** strategies to evaluate their impact on classification performance.
 
