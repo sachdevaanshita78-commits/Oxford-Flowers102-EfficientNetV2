@@ -122,7 +122,7 @@ https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 ### Accuracy
 
-![Fine-Tuning Accuracy](images/Fine-Tuning Accuracy.png)
+![Fine-Tuning Accuracy](images/Fine-Tuning_Accuracy.png)
 
 ### Loss
 
